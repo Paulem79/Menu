@@ -1,4 +1,3 @@
 # Menu
 A simple Python menu with awesomes plugins !
-
-![image](https://user-images.githubusercontent.com/66211574/174401831-6e806eb9-0ae4-4f24-b331-56699d9c43dc.png)
+![image](https://user-images.githubusercontent.com/66211574/174402023-0b47f0c4-83f3-46b8-bdc0-37838eaaf553.png)
