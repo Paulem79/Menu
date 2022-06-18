@@ -1,7 +1,7 @@
 # Menu
 
 <a href="https://discord.gg/7ePV4RJCKH">
-<img src="https://discord.com/api/guilds/874961789551542272/widget.png?style=banner2"/>
+<img src="https://discord.com/api/guilds/696076361143550033/widget.png?style=banner2"/>
 </a>
 
 A simple Python menu with awesomes plugins !
